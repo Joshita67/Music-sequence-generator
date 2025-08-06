@@ -5,3 +5,4 @@ scikit-learn
 tensorflow
 keras
 matplotlib
+pretty_midi
